@@ -4,7 +4,7 @@
 This repository details an advanced financial model combining Transformer neural networks with the classical Markowitz Portfolio Optimization to enhance investment strategies for small-cap stocks indexed to Russell 2000. By leveraging Azure Databricks for heavy computational tasks, this approach overcomes the traditional model limitations by harnessing machine learning capabilities to capture dynamic and non-linear market patterns, thereby significantly improving financial portfolio management.
 
 ## Repository Structure
-- `Codes/`: Python scripts and Jupyter notebooks developed and executed in the Azure Databricks environment.
+- `Codes/`: Jupyter notebook developed and executed in the Azure Databricks environment.
 - `Outputs/`: Includes files like charts and visualizations generated from the scripts. Key files include:
   - `model_perf.png`: Visualization of the model's performance metrics.
   - `pbi_dashb.png`: PowerBI dashboard screenshot showing comprehensive visualization outcomes.
